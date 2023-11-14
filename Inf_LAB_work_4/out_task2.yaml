@@ -1,0 +1,42 @@
+---
+even_week: False
+day_id: 5
+group_name: P3116
+date: Saturday, 11  Nov 2023 UTC +03:00
+schedule:
+- title: Основы дискретной математики (базовый уровень)
+  class_format: Очно
+  type:
+    id: 0
+    title: Лекция
+  campus:
+    id: 0
+    address: Кронверкский пр., д.49, лит.А
+  time:
+    period: 1
+    from_time: 10:00
+    to_time: 11:30
+  auditory:
+    id: 332
+    name: ауд. 2337 (бывш. 332)
+  teacher:
+    id: 100054
+    name: Поляков Владимир Иванович
+- title: Основы дискретной математики (базовый уровень)
+  class_format: Очно
+  type:
+    id: 1
+    title: Практика
+  campus:
+    id: 0
+    address: Кронверкский пр., д.49, лит.А
+  time:
+    period: 1
+    from_time: 11:40
+    to_time: 13:10
+  auditory:
+    id: 332
+    name: ауд. 2337 (бывш. 332)
+  teacher:
+    id: 100054
+    name: Поляков Владимир Иванович
